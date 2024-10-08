@@ -12,7 +12,7 @@ def home():
                 <title>{title}</title>
                 <style>
                     body {{
-                        background-color:
+                         background-color: #2c6fc3;
                         font-family: Arial, sans-serif;
                         text-align: center;
                         padding: 50px;
